@@ -1,0 +1,15 @@
+<resources>
+
+
+    <string name="app_name">Breaking Bad</string>
+
+    <string name="character_info">Character information</string>
+    <string name="character_name">Name</string>
+    <string name="status">Status</string>
+    <string name="nickname">Nickname</string>
+    <string name="occupation">Occupation</string>
+    <string name="birthday">Birthdate</string>
+    <string name="appearances">Appearances</string>
+    <string name="chaneLang">Change Language</string>
+
+</resources>
